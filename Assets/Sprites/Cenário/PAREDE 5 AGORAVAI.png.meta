@@ -1,0 +1,1444 @@
+fileFormatVersion: 2
+guid: c71ea8bb075d86245b66377235b8535d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PAREDE 5 AGORAVAI_0
+    21300002: PAREDE 5 AGORAVAI_1
+    21300004: PAREDE 5 AGORAVAI_2
+    21300006: PAREDE 5 AGORAVAI_3
+    21300008: PAREDE 5 AGORAVAI_4
+    21300010: PAREDE 5 AGORAVAI_5
+    21300012: PAREDE 5 AGORAVAI_6
+    21300014: PAREDE 5 AGORAVAI_7
+    21300016: PAREDE 5 AGORAVAI_8
+    21300018: PAREDE 5 AGORAVAI_9
+    21300020: PAREDE 5 AGORAVAI_10
+    21300022: PAREDE 5 AGORAVAI_11
+    21300024: PAREDE 5 AGORAVAI_12
+    21300026: PAREDE 5 AGORAVAI_13
+    21300028: PAREDE 5 AGORAVAI_14
+    21300030: PAREDE 5 AGORAVAI_15
+    21300032: PAREDE 5 AGORAVAI_16
+    21300034: PAREDE 5 AGORAVAI_17
+    21300036: PAREDE 5 AGORAVAI_18
+    21300038: PAREDE 5 AGORAVAI_19
+    21300040: PAREDE 5 AGORAVAI_20
+    21300042: PAREDE 5 AGORAVAI_21
+    21300044: PAREDE 5 AGORAVAI_22
+    21300046: PAREDE 5 AGORAVAI_23
+    21300048: PAREDE 5 AGORAVAI_24
+    21300050: PAREDE 5 AGORAVAI_25
+    21300052: PAREDE 5 AGORAVAI_26
+    21300054: PAREDE 5 AGORAVAI_27
+    21300056: PAREDE 5 AGORAVAI_28
+    21300058: PAREDE 5 AGORAVAI_29
+    21300060: PAREDE 5 AGORAVAI_30
+    21300062: PAREDE 5 AGORAVAI_31
+    21300064: PAREDE 5 AGORAVAI_32
+    21300066: PAREDE 5 AGORAVAI_33
+    21300068: PAREDE 5 AGORAVAI_34
+    21300070: PAREDE 5 AGORAVAI_35
+    21300072: PAREDE 5 AGORAVAI_36
+    21300074: PAREDE 5 AGORAVAI_37
+    21300076: PAREDE 5 AGORAVAI_38
+    21300078: PAREDE 5 AGORAVAI_39
+    21300080: PAREDE 5 AGORAVAI_40
+    21300082: PAREDE 5 AGORAVAI_41
+    21300084: PAREDE 5 AGORAVAI_42
+    21300086: PAREDE 5 AGORAVAI_43
+    21300088: PAREDE 5 AGORAVAI_44
+    21300090: PAREDE 5 AGORAVAI_45
+    21300092: PAREDE 5 AGORAVAI_46
+    21300094: PAREDE 5 AGORAVAI_47
+    21300096: PAREDE 5 AGORAVAI_48
+    21300098: PAREDE 5 AGORAVAI_49
+    21300100: PAREDE 5 AGORAVAI_50
+    21300102: PAREDE 5 AGORAVAI_51
+    21300104: PAREDE 5 AGORAVAI_52
+    21300106: PAREDE 5 AGORAVAI_53
+    21300108: PAREDE 5 AGORAVAI_54
+    21300110: PAREDE 5 AGORAVAI_55
+    21300112: PAREDE 5 AGORAVAI_56
+    21300114: PAREDE 5 AGORAVAI_57
+    21300116: PAREDE 5 AGORAVAI_58
+    21300118: PAREDE 5 AGORAVAI_59
+    21300120: PAREDE 5 AGORAVAI_60
+    21300122: PAREDE 5 AGORAVAI_61
+    21300124: PAREDE 5 AGORAVAI_62
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233fd66860da1044d9a0bef4a6c6acbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f73afd78a6bba43ada677a629f3e27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497fcbce3fdbca04e8dc84bea2a262c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cff35a5b09256845801c03996386390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6438ced927d6744aaea070868323ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 620
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7f73669ba4bbc4084aa8169c1445bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_6
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 598
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e664a74cfec72ba4c88df20cdf2e7e61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 620
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbfc0602c5f2e1448af21d58d42a7ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ceac865bf732a45991c6e29e1eeeb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802fca734cc3d8544bfe7447ce1b78d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_10
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc90f2e984266443aba52198e3a3ea5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce3f4203b473904b8a72a0840e21fbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_12
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6108f9a970bc243b771b7d45cddaf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_13
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91da50a2611319f459f62c21868e2676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_14
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4469ab86765884183be4b59f3b4a76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 543
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6c9c37b5b005246af0ecfb6ab6d7d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_16
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0a7d6d2c73e2443a529679954d2717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9201744ddcc0146a0949f06a51a85f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_18
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 528
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef546e022127014185e945c8452cf36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 528
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3121310b356a9d64a8708b14b9b72fa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_20
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 528
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b33bfb18abf09243a94b771c560e30c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_21
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 528
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da9724950ed7754d81f5688241cea2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_22
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 528
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fee54badb8e4d4d9100fc0a883c786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 505
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24803ea8bb6a66645a78f7906faf7663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 505
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361cee8aba76f3c40b4d0cdae91f0844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_25
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 505
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ad6c51d5c8be941bb5ac49c1c5d3ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_26
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 492
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2950106ba99ceb347968538d7415cef4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 492
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1f77ef2e693564ab1e41a4c4688e26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_28
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 492
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286861e541c8fd74b95fd5272cd9f6ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_29
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 492
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae310a6927651c4da8a606512822fca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_30
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 492
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8bae39cd773f541b1b9599711f7990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 467
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0ac09df7b8f644b93ffb6508c3214a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 467
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ed33da83a5f434e8a5ba1c107b98e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_33
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 467
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3503e80c13c0d4043999de0e12f7ec8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 429
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57279fb7dc270b147b27d56aedbf5535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_35
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 430
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e38f201b961cb1408447e1af54fd631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2454bc32703faf249b6e705124c0172d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_37
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 390
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70236d9a8e3c2034a93d994e7320e13d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_38
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 388
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eae1e62626204547989225e9c36da3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_39
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be71cfd2968a0c4a92cd183ab92cae3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10af73ae235168e4db416dd37d07bfae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fea471440522f468036fb5963611cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_42
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c72cc266b970c408fba3c087e2efd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_43
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c33948120d2354081f6d542ddab2c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3b503ff905aa34faffe137060ffa5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_45
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc43abaef9ba624dbe58bb3315207e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 236
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8139f49f6b78b8943b665a4d4fac8148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_47
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da51af48f2e7d643bad1557c11d6527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_48
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56381c3f9fe6d7448e6543537c3190c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_49
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5189775614d4b4e8ac9693cc5bbfd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_50
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dffc27afb8c424b85a2f6e8a98ee94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_51
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06219aaa8269a284d9e99c48956d578f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_52
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61832c1b222b7b3409f9c21422ec5cba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_53
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 83
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f5d85d6a948314fbfdf9c02e7f00d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_54
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 83
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c8e1336e8d20b49a675902c2750f3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_55
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 83
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7897e51fdb64972419a0c1eb421cecc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_56
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8be6cfd89703043b0f904685546849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_57
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df248ac07a048664c948995f8d3b6c44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_58
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a56845b1d49e004dbd3ce98c970ae67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_59
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49911ebf44e6a82498842ff12d62d842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_60
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 13
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691046fa0051355499634bfc61e38343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_61
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 13
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9260c1fd375e666419ce9bd9960ad886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE 5 AGORAVAI_62
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 13
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cfbfc32cd93f647bb8ee930c0b5fe6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ddf28b36758d83a45aeec33515def11a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

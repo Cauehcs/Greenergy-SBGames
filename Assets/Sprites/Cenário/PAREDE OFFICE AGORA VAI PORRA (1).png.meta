@@ -1,0 +1,1536 @@
+fileFormatVersion: 2
+guid: e8707dba4b37a9243bcb87e5b84791fd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PAREDE OFFICE AGORA VAI PORRA (1)_0
+    21300002: PAREDE OFFICE AGORA VAI PORRA (1)_1
+    21300004: PAREDE OFFICE AGORA VAI PORRA (1)_2
+    21300006: PAREDE OFFICE AGORA VAI PORRA (1)_3
+    21300008: PAREDE OFFICE AGORA VAI PORRA (1)_4
+    21300010: PAREDE OFFICE AGORA VAI PORRA (1)_5
+    21300012: PAREDE OFFICE AGORA VAI PORRA (1)_6
+    21300014: PAREDE OFFICE AGORA VAI PORRA (1)_7
+    21300016: PAREDE OFFICE AGORA VAI PORRA (1)_8
+    21300018: PAREDE OFFICE AGORA VAI PORRA (1)_9
+    21300020: PAREDE OFFICE AGORA VAI PORRA (1)_10
+    21300022: PAREDE OFFICE AGORA VAI PORRA (1)_11
+    21300024: PAREDE OFFICE AGORA VAI PORRA (1)_12
+    21300026: PAREDE OFFICE AGORA VAI PORRA (1)_13
+    21300028: PAREDE OFFICE AGORA VAI PORRA (1)_14
+    21300030: PAREDE OFFICE AGORA VAI PORRA (1)_15
+    21300032: PAREDE OFFICE AGORA VAI PORRA (1)_16
+    21300034: PAREDE OFFICE AGORA VAI PORRA (1)_17
+    21300036: PAREDE OFFICE AGORA VAI PORRA (1)_18
+    21300038: PAREDE OFFICE AGORA VAI PORRA (1)_19
+    21300040: PAREDE OFFICE AGORA VAI PORRA (1)_20
+    21300042: PAREDE OFFICE AGORA VAI PORRA (1)_21
+    21300044: PAREDE OFFICE AGORA VAI PORRA (1)_22
+    21300046: PAREDE OFFICE AGORA VAI PORRA (1)_23
+    21300048: PAREDE OFFICE AGORA VAI PORRA (1)_24
+    21300050: PAREDE OFFICE AGORA VAI PORRA (1)_25
+    21300052: PAREDE OFFICE AGORA VAI PORRA (1)_26
+    21300054: PAREDE OFFICE AGORA VAI PORRA (1)_27
+    21300056: PAREDE OFFICE AGORA VAI PORRA (1)_28
+    21300058: PAREDE OFFICE AGORA VAI PORRA (1)_29
+    21300060: PAREDE OFFICE AGORA VAI PORRA (1)_30
+    21300062: PAREDE OFFICE AGORA VAI PORRA (1)_31
+    21300064: PAREDE OFFICE AGORA VAI PORRA (1)_32
+    21300066: PAREDE OFFICE AGORA VAI PORRA (1)_33
+    21300068: PAREDE OFFICE AGORA VAI PORRA (1)_34
+    21300070: PAREDE OFFICE AGORA VAI PORRA (1)_35
+    21300072: PAREDE OFFICE AGORA VAI PORRA (1)_36
+    21300074: PAREDE OFFICE AGORA VAI PORRA (1)_37
+    21300076: PAREDE OFFICE AGORA VAI PORRA (1)_38
+    21300078: PAREDE OFFICE AGORA VAI PORRA (1)_39
+    21300080: PAREDE OFFICE AGORA VAI PORRA (1)_40
+    21300082: PAREDE OFFICE AGORA VAI PORRA (1)_41
+    21300084: PAREDE OFFICE AGORA VAI PORRA (1)_42
+    21300086: PAREDE OFFICE AGORA VAI PORRA (1)_43
+    21300088: PAREDE OFFICE AGORA VAI PORRA (1)_44
+    21300090: PAREDE OFFICE AGORA VAI PORRA (1)_45
+    21300092: PAREDE OFFICE AGORA VAI PORRA (1)_46
+    21300094: PAREDE OFFICE AGORA VAI PORRA (1)_47
+    21300096: PAREDE OFFICE AGORA VAI PORRA (1)_48
+    21300098: PAREDE OFFICE AGORA VAI PORRA (1)_49
+    21300100: PAREDE OFFICE AGORA VAI PORRA (1)_50
+    21300102: PAREDE OFFICE AGORA VAI PORRA (1)_51
+    21300104: PAREDE OFFICE AGORA VAI PORRA (1)_52
+    21300106: PAREDE OFFICE AGORA VAI PORRA (1)_53
+    21300108: PAREDE OFFICE AGORA VAI PORRA (1)_54
+    21300110: PAREDE OFFICE AGORA VAI PORRA (1)_55
+    21300112: PAREDE OFFICE AGORA VAI PORRA (1)_56
+    21300114: PAREDE OFFICE AGORA VAI PORRA (1)_57
+    21300116: PAREDE OFFICE AGORA VAI PORRA (1)_58
+    21300118: PAREDE OFFICE AGORA VAI PORRA (1)_59
+    21300120: PAREDE OFFICE AGORA VAI PORRA (1)_60
+    21300122: PAREDE OFFICE AGORA VAI PORRA (1)_61
+    21300124: PAREDE OFFICE AGORA VAI PORRA (1)_62
+    21300126: PAREDE OFFICE AGORA VAI PORRA (1)_63
+    21300128: PAREDE OFFICE AGORA VAI PORRA (1)_64
+    21300130: PAREDE OFFICE AGORA VAI PORRA (1)_65
+    21300132: PAREDE OFFICE AGORA VAI PORRA (1)_66
+    21300134: PAREDE OFFICE AGORA VAI PORRA (1)_67
+    21300136: PAREDE OFFICE AGORA VAI PORRA (1)_68
+    21300138: PAREDE OFFICE AGORA VAI PORRA (1)_69
+    21300140: PAREDE OFFICE AGORA VAI PORRA (1)_70
+    21300142: PAREDE OFFICE AGORA VAI PORRA (1)_71
+    21300144: PAREDE OFFICE AGORA VAI PORRA (1)_72
+    21300146: PAREDE OFFICE AGORA VAI PORRA (1)_73
+    21300148: PAREDE OFFICE AGORA VAI PORRA (1)_74
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba6411c03daac94d82cfa0aab857a00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085b50b190696144ab248a70656fc37c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23516583187a7043bcd095dff1ce234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd9367f48366a64aaf1b643c1d1ac7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8adbdfd5950514981e5267f18aa1d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 620
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a513c3f3e1e0e2e45a056d5e9557bf39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_6
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 598
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b0172f0ba1d7640b8440f63c5847aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 620
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63276b7956467944b9e145ab59a44dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c89f87c961f5a4fadfa1fc4ef7b42c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a77b4ea57fd3144d903a8956ae475c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_10
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa894b4947877140abc76204349a5f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa3001aac2f1a643822d2c593c91fac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_12
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628f9bfa5e50cf44a8dbac374446081d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_13
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0812a9c8dc8fb204f8c31eb4576de357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_14
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a92d2e354bbd344976e390aa95dac2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 543
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34586a5c0be9ab46abe935dd4214439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_16
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92353d183f0ce1b46b5a2f8dbfc0310c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0a61946937f634c8897caa41883b2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_18
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 528
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf95eb9d8531de64a8e6d1558b51136c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 528
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824adec1ed849c043b43dc84e3a660e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_20
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 528
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0feb3af271876474e890300158444edf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_21
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 528
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c707d565ecf8d4daf63492e537d610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_22
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 528
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7246f6c67eb2bf449889ff19bbecd4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 505
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8271bb2b72e8e1f4c82f04666cd60bad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 505
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db319646bed20d34e81da1dd1eaa2597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 505
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50c266c3aa21d6419c52fcb836f0637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 505
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d328bbc98f33a740aa6666cdb68c8e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_27
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 505
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b89de44fb4cd1a469cbc65cfaf4d142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_28
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 492
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f75a4d18c3e2344baa0c70b379da919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 492
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c86437459f032c478c8e1a37a0c76ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_30
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 492
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5fae2c6807fc74c9a18456f84d0253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_31
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 492
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db805343f074896429c588da49f8e7a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_32
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 492
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caa59d776027f44c83d6374d69ee473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 467
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1ec4c85ec13ee4585adcf3b51e2182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_34
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 467
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d778a10ceec8f4d4397e2d86bb0b83dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_35
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 467
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba99e7b440154d4392777b938361744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 429
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b871c04608e26ef49b669902feb03f11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_43
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 430
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85aa970d88ac6ed4d8d423a6c2f90311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_45
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8a0c5fb1a27624bb296efdcbdf01e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_46
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 390
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2015aceb927b94ba7ceb9ea701050f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_47
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a102478777927a04bb713c5acc11980a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_48
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3233bdbf79537d4f93dbe1044cd872c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf529c86cea809499686d75ad39e78a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_50
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 314
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a2562a1043bd547a1618d58810bdb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe240d5f01480049bd12c705912cf7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_52
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6f9042644797642804a5e4660fc332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_53
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5022d53b1dfa64428cc667959143a2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_54
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8720c55f3464bcd449f151975289f339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_55
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54aab08fad6fa43438ff6f3db5c1c958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_56
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900c40ae9690ab647a1730db01c5079d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_57
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cac5991a017604f825740648a44fa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_58
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefb281e96b8b3c41a032521794a1590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_59
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 83
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89978ab0d4b60247893a8030c3251ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_60
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 83
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203190177b412af4ebbcc505ecb46f10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_61
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 83
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c5cbc85ccfdea42b5d653bdc795ab8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_63
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a04e22d4ca2074291fb177a01c788f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_64
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee5ead0769b5bd468df851364b03382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_65
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0f087ead2764f41875d244a7e542e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_66
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121aa85734a22254bb7ea472c0c7fe72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_67
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 13
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edfec77f30a2cc48b019d6026dc5cb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_68
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 13
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fe12ca7373922478e20b77060db445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_69
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 13
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1cb23d4aa6c904c8bd70948681d563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_70
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 13
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd351a1458610a46bfbd84a930bae51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 13
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610f9f8340e467a4b89152ae0dd0c96f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_72
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 13
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e07129ab1ead694ab7ae9b7cc2cface
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_73
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 13
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c262f8b3e1335254e8423070f1f50811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAREDE OFFICE AGORA VAI PORRA (1)_74
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 13
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c771151e8dc7515448d4c7b5551e9f51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7ae227020e8293b4c9e1985ea535fee7
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

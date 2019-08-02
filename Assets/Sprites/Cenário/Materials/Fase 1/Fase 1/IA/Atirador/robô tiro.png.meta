@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 751a559124a4dc64dad7c7fca39714bb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "rob\xF4 tiro_0"
+    21300002: "rob\xF4 tiro_1"
+    21300004: "rob\xF4 tiro_2"
+    21300006: "rob\xF4 tiro_3"
+    21300008: "rob\xF4 tiro_4"
+    21300010: "rob\xF4 tiro_5"
+    21300012: "rob\xF4 tiro_6"
+    21300014: "rob\xF4 tiro_7"
+    21300016: "rob\xF4 tiro_8"
+    21300018: "rob\xF4 tiro_9"
+    21300020: "rob\xF4 tiro_10"
+    21300022: "rob\xF4 tiro_11"
+    21300024: "rob\xF4 tiro_12"
+    21300026: "rob\xF4 tiro_13"
+    21300028: "rob\xF4 tiro_14"
+    21300030: "rob\xF4 tiro_15"
+    21300032: "rob\xF4 tiro_16"
+    21300034: "rob\xF4 tiro_17"
+    21300036: "rob\xF4 tiro_18"
+    21300038: "rob\xF4 tiro_19"
+    21300040: "rob\xF4 tiro_20"
+    21300042: "rob\xF4 tiro_21"
+    21300044: "rob\xF4 tiro_22"
+    21300046: "rob\xF4 tiro_23"
+    21300048: "rob\xF4 tiro_24"
+    21300050: "rob\xF4 tiro_25"
+    21300052: "rob\xF4 tiro_26"
+    21300054: "rob\xF4 tiro_27"
+    21300056: "rob\xF4 tiro_28"
+    21300058: "rob\xF4 tiro_29"
+    21300060: "rob\xF4 tiro_30"
+    21300062: "rob\xF4 tiro_31"
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5760
+        width: 1148
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd648f4ac1829d4dafd05b508106186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_1"
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 5760
+        width: 1146
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a47aab180e2724d8309a85abfdbf36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_2"
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 5760
+        width: 1145
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307cd210c6cca9e439fcaba0536dafcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_3"
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 5760
+        width: 1148
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a97c02edc575ca44958fc39bb59d121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_4"
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 5760
+        width: 1147
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43ea36db37ed9446b79b3cdd88fca66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_5"
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 5760
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d0900e09923ff40b532cbbac6baf9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 1142
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d384d278bbcc2274e80cfe76034f07c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_7"
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 4608
+        width: 1141
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d252e53606a03c4428c26d1ec0b6ae87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_8"
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 4608
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b7d22357c3672419117b933b74e4de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_9"
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 4608
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e54db2dc9663c142aed928f55cf613b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_10"
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 4608
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39dc5759d247cb40be81eb1e33548c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_11"
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4608
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6091b4fd2e77c1f4b83c2ce135a3bb1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8c8d45d233a3a4e9a6c43d21fc3ff5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_13"
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3456
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4129005a0cfc98b4db401071fec95fd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_14"
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3456
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc52b1e410a0bcf4cb72f1b3bb568a15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_15"
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 3456
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65461b034eeda8347a7e7e30ebd4733f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_16"
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 3456
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663d720c2ce4bde4f8cba2556c32d590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_17"
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3456
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b90435fa6b1f4643af7de93cb9c7f13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ec7267581127c4699456e042356f1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_19"
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2304
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a691251e8cf3041a6ce2ee062eb0db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_20"
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2304
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31fba4b648d52a46bcfe1deef3d91ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_21"
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 2304
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7459da74311e84aa39b3c58d228ccb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_22"
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2304
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df1b60d7df5ed94b876b50342a8ffd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_23"
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2304
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635bb3f9593293c44ba3940ff7a4d68f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d289c81911eb2484b86c901740633edb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_25"
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1152
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2446b8a0d78c9439f4af11931893e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_26"
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1152
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b769890351dc1468e2de8c0a9ba74e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_27"
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 1152
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06da6e71085342c44a83f33e84351bfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_28"
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1152
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3c0ae7e5e53e04a83b7c496356d383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_29"
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1152
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644da74f6d4800f499d3cbd16ea472ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_30"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54537b65396bdc94cbe7c4a1baf7016c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "rob\xF4 tiro_31"
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 1152
+        height: 1152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece1fa6fb5024764983b5469e0e82e59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: acda72029afb47e4c96114d6cf0333fd
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
