@@ -1,66 +1,180 @@
 fileFormatVersion: 2
 guid: f4935a4b0f9cf674c9a266b842ef3c70
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: PAREDE OFFICE AGORA VAI PORRA (2)_0
-    21300002: PAREDE OFFICE AGORA VAI PORRA (2)_1
-    21300004: PAREDE OFFICE AGORA VAI PORRA (2)_2
-    21300006: PAREDE OFFICE AGORA VAI PORRA (2)_3
-    21300008: PAREDE OFFICE AGORA VAI PORRA (2)_4
-    21300010: PAREDE OFFICE AGORA VAI PORRA (2)_5
-    21300012: PAREDE OFFICE AGORA VAI PORRA (2)_6
-    21300014: PAREDE OFFICE AGORA VAI PORRA (2)_7
-    21300016: PAREDE OFFICE AGORA VAI PORRA (2)_8
-    21300018: PAREDE OFFICE AGORA VAI PORRA (2)_9
-    21300020: PAREDE OFFICE AGORA VAI PORRA (2)_10
-    21300022: PAREDE OFFICE AGORA VAI PORRA (2)_11
-    21300024: PAREDE OFFICE AGORA VAI PORRA (2)_12
-    21300026: PAREDE OFFICE AGORA VAI PORRA (2)_13
-    21300028: PAREDE OFFICE AGORA VAI PORRA (2)_14
-    21300030: PAREDE OFFICE AGORA VAI PORRA (2)_15
-    21300032: PAREDE OFFICE AGORA VAI PORRA (2)_16
-    21300034: PAREDE OFFICE AGORA VAI PORRA (2)_17
-    21300036: PAREDE OFFICE AGORA VAI PORRA (2)_18
-    21300038: PAREDE OFFICE AGORA VAI PORRA (2)_19
-    21300040: PAREDE OFFICE AGORA VAI PORRA (2)_20
-    21300042: PAREDE OFFICE AGORA VAI PORRA (2)_21
-    21300044: PAREDE OFFICE AGORA VAI PORRA (2)_22
-    21300046: PAREDE OFFICE AGORA VAI PORRA (2)_23
-    21300048: PAREDE OFFICE AGORA VAI PORRA (2)_24
-    21300050: PAREDE OFFICE AGORA VAI PORRA (2)_25
-    21300052: PAREDE OFFICE AGORA VAI PORRA (2)_26
-    21300054: PAREDE OFFICE AGORA VAI PORRA (2)_27
-    21300056: PAREDE OFFICE AGORA VAI PORRA (2)_28
-    21300058: PAREDE OFFICE AGORA VAI PORRA (2)_29
-    21300060: PAREDE OFFICE AGORA VAI PORRA (2)_30
-    21300062: PAREDE OFFICE AGORA VAI PORRA (2)_31
-    21300064: PAREDE OFFICE AGORA VAI PORRA (2)_32
-    21300066: PAREDE OFFICE AGORA VAI PORRA (2)_33
-    21300068: PAREDE OFFICE AGORA VAI PORRA (2)_34
-    21300070: PAREDE OFFICE AGORA VAI PORRA (2)_35
-    21300072: PAREDE OFFICE AGORA VAI PORRA (2)_36
-    21300074: PAREDE OFFICE AGORA VAI PORRA (2)_37
-    21300076: PAREDE OFFICE AGORA VAI PORRA (2)_38
-    21300078: PAREDE OFFICE AGORA VAI PORRA (2)_39
-    21300080: PAREDE OFFICE AGORA VAI PORRA (2)_40
-    21300082: PAREDE OFFICE AGORA VAI PORRA (2)_41
-    21300084: PAREDE OFFICE AGORA VAI PORRA (2)_42
-    21300086: PAREDE OFFICE AGORA VAI PORRA (2)_43
-    21300088: PAREDE OFFICE AGORA VAI PORRA (2)_44
-    21300090: PAREDE OFFICE AGORA VAI PORRA (2)_45
-    21300092: PAREDE OFFICE AGORA VAI PORRA (2)_46
-    21300094: PAREDE OFFICE AGORA VAI PORRA (2)_47
-    21300096: PAREDE OFFICE AGORA VAI PORRA (2)_48
-    21300098: PAREDE OFFICE AGORA VAI PORRA (2)_49
-    21300100: PAREDE OFFICE AGORA VAI PORRA (2)_50
-    21300102: PAREDE OFFICE AGORA VAI PORRA (2)_51
-    21300104: PAREDE OFFICE AGORA VAI PORRA (2)_52
-    21300106: PAREDE OFFICE AGORA VAI PORRA (2)_53
-    21300108: PAREDE OFFICE AGORA VAI PORRA (2)_54
-    21300110: PAREDE OFFICE AGORA VAI PORRA (2)_55
-    21300112: PAREDE OFFICE AGORA VAI PORRA (2)_56
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_0
+  - first:
+      213: 21300002
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_1
+  - first:
+      213: 21300004
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_2
+  - first:
+      213: 21300006
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_3
+  - first:
+      213: 21300008
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_4
+  - first:
+      213: 21300010
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_5
+  - first:
+      213: 21300012
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_6
+  - first:
+      213: 21300014
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_7
+  - first:
+      213: 21300016
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_8
+  - first:
+      213: 21300018
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_9
+  - first:
+      213: 21300020
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_10
+  - first:
+      213: 21300022
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_11
+  - first:
+      213: 21300024
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_12
+  - first:
+      213: 21300026
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_13
+  - first:
+      213: 21300028
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_14
+  - first:
+      213: 21300030
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_15
+  - first:
+      213: 21300032
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_16
+  - first:
+      213: 21300034
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_17
+  - first:
+      213: 21300036
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_18
+  - first:
+      213: 21300038
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_19
+  - first:
+      213: 21300040
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_20
+  - first:
+      213: 21300042
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_21
+  - first:
+      213: 21300044
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_22
+  - first:
+      213: 21300046
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_23
+  - first:
+      213: 21300048
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_24
+  - first:
+      213: 21300050
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_25
+  - first:
+      213: 21300052
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_26
+  - first:
+      213: 21300054
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_27
+  - first:
+      213: 21300056
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_28
+  - first:
+      213: 21300058
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_29
+  - first:
+      213: 21300060
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_30
+  - first:
+      213: 21300062
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_31
+  - first:
+      213: 21300064
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_32
+  - first:
+      213: 21300066
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_33
+  - first:
+      213: 21300068
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_34
+  - first:
+      213: 21300070
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_35
+  - first:
+      213: 21300072
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_36
+  - first:
+      213: 21300074
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_37
+  - first:
+      213: 21300076
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_38
+  - first:
+      213: 21300078
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_39
+  - first:
+      213: 21300080
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_40
+  - first:
+      213: 21300082
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_41
+  - first:
+      213: 21300084
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_42
+  - first:
+      213: 21300086
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_43
+  - first:
+      213: 21300088
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_44
+  - first:
+      213: 21300090
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_45
+  - first:
+      213: 21300092
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_46
+  - first:
+      213: 21300094
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_47
+  - first:
+      213: 21300096
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_48
+  - first:
+      213: 21300098
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_49
+  - first:
+      213: 21300100
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_50
+  - first:
+      213: 21300102
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_51
+  - first:
+      213: 21300104
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_52
+  - first:
+      213: 21300106
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_53
+  - first:
+      213: 21300108
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_54
+  - first:
+      213: 21300110
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_55
+  - first:
+      213: 21300112
+    second: PAREDE OFFICE AGORA VAI PORRA (2)_56
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -114,8 +228,9 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -126,7 +241,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -137,7 +253,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -148,7 +265,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -159,6 +277,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -178,6 +297,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dc3604b342f447140948ddbdf7bee91d
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -198,6 +318,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4bd30f20a70a53c4b8aad8cb9dcb17d5
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -218,6 +339,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ddfc43f028c9b174fa6b959877674fdf
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -238,6 +360,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: eb263b1124965cc4791273a2d352c7db
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -258,6 +381,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2f83bf9c6eb160644a5e6a72ac7b848a
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -278,6 +402,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: aea0d6e34178b7740875f5cdac40374f
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -298,6 +423,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 42640c07f232d5640869cd76cedda63a
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -318,6 +444,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 47fb5403ca70e794293139aff8482796
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -338,6 +465,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d49e16694ddf50840a78ea5455ecdb7f
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -358,6 +486,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0c95dff0901f133469839eaa33a1109c
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -378,6 +507,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1336535596f717e4687cedadf0abf06b
+      internalID: 21300020
       vertices: []
       indices: 
       edges: []
@@ -398,6 +528,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 09a2473ef12d22742a629933a2a1f8d9
+      internalID: 21300022
       vertices: []
       indices: 
       edges: []
@@ -418,6 +549,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 22b03c66ebc36d04aaa0f270b8aed482
+      internalID: 21300024
       vertices: []
       indices: 
       edges: []
@@ -438,6 +570,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3b03fb772d11351458e4f7d6e4b7ecd6
+      internalID: 21300026
       vertices: []
       indices: 
       edges: []
@@ -458,6 +591,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8c60ef09ee0e0b044864319918cc8157
+      internalID: 21300028
       vertices: []
       indices: 
       edges: []
@@ -478,6 +612,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ff78963831b452349bafb98fc1352847
+      internalID: 21300030
       vertices: []
       indices: 
       edges: []
@@ -498,6 +633,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 406916d46d6196d44a5f6d6751d92cbb
+      internalID: 21300032
       vertices: []
       indices: 
       edges: []
@@ -518,6 +654,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f35add493763e6c4f864d387f06b4d08
+      internalID: 21300034
       vertices: []
       indices: 
       edges: []
@@ -538,6 +675,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 40df4447acf4d0c4fb4bc965126c360e
+      internalID: 21300036
       vertices: []
       indices: 
       edges: []
@@ -558,6 +696,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8e39df666297ac049988085a9f59e3df
+      internalID: 21300038
       vertices: []
       indices: 
       edges: []
@@ -578,6 +717,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0d6240a24fd98114286e8b48596e520f
+      internalID: 21300040
       vertices: []
       indices: 
       edges: []
@@ -598,6 +738,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9ac04bdc39a1f5748a324a9b53798269
+      internalID: 21300042
       vertices: []
       indices: 
       edges: []
@@ -618,6 +759,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0a73f2dbd99ee394fbcd7da41d57905e
+      internalID: 21300044
       vertices: []
       indices: 
       edges: []
@@ -638,6 +780,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f5e1175977ddc1142b0dd582b0da26ed
+      internalID: 21300046
       vertices: []
       indices: 
       edges: []
@@ -658,6 +801,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d60d1e63097069f4fbaa4123661518a1
+      internalID: 21300048
       vertices: []
       indices: 
       edges: []
@@ -678,6 +822,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: be0285fd62e176a4fac891ef7dd3556a
+      internalID: 21300050
       vertices: []
       indices: 
       edges: []
@@ -698,6 +843,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1709ac889c609e3449c413dbf383349b
+      internalID: 21300052
       vertices: []
       indices: 
       edges: []
@@ -718,6 +864,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 72851a4b5f27b3a448849cc46b21212e
+      internalID: 21300054
       vertices: []
       indices: 
       edges: []
@@ -738,6 +885,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9a1e13f46907147409d130f079e3ecf3
+      internalID: 21300056
       vertices: []
       indices: 
       edges: []
@@ -758,6 +906,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 82682b4fb7209ce4eaf58b5f7e86a665
+      internalID: 21300058
       vertices: []
       indices: 
       edges: []
@@ -778,6 +927,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f82d631edbdd75243ba449fa4255022d
+      internalID: 21300060
       vertices: []
       indices: 
       edges: []
@@ -798,6 +948,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b89b7e5e3e9d13843b62fc620c7c078c
+      internalID: 21300062
       vertices: []
       indices: 
       edges: []
@@ -818,6 +969,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6582d3bd827030d48bcde2af02f4596f
+      internalID: 21300064
       vertices: []
       indices: 
       edges: []
@@ -838,6 +990,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 824c6a50dd7a645479a4ee25dad003ca
+      internalID: 21300066
       vertices: []
       indices: 
       edges: []
@@ -858,6 +1011,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 62ef98e3467b5fa439bf7eec83015b3a
+      internalID: 21300068
       vertices: []
       indices: 
       edges: []
@@ -878,6 +1032,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f90d5c00f38846a41a0145ceddcf5c8f
+      internalID: 21300070
       vertices: []
       indices: 
       edges: []
@@ -898,6 +1053,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4bf51783f828eeb40bc03ec474739f44
+      internalID: 21300072
       vertices: []
       indices: 
       edges: []
@@ -918,6 +1074,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 59350057cc468e843a38c5ce6d431739
+      internalID: 21300074
       vertices: []
       indices: 
       edges: []
@@ -938,6 +1095,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3a8c5962d47d0a844b81a93577590b48
+      internalID: 21300076
       vertices: []
       indices: 
       edges: []
@@ -958,6 +1116,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cd532c02b8a93fe4ab47d3cb56920005
+      internalID: 21300078
       vertices: []
       indices: 
       edges: []
@@ -978,6 +1137,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 201ac5b2cadd18341bd39d513efef757
+      internalID: 21300080
       vertices: []
       indices: 
       edges: []
@@ -998,6 +1158,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e5bfa0d84679d80409885968d4ff2bc1
+      internalID: 21300082
       vertices: []
       indices: 
       edges: []
@@ -1018,6 +1179,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0a35dfe9025d6ca4495a0ec0cfbe1cff
+      internalID: 21300084
       vertices: []
       indices: 
       edges: []
@@ -1038,6 +1200,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ed0089c5f6b3fb54fb10a9c6e58a3505
+      internalID: 21300086
       vertices: []
       indices: 
       edges: []
@@ -1058,6 +1221,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cdc5f5b1d86ba2043b3303522bdc789d
+      internalID: 21300088
       vertices: []
       indices: 
       edges: []
@@ -1078,6 +1242,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ff8177f618d41004695f9c9e5e700d88
+      internalID: 21300090
       vertices: []
       indices: 
       edges: []
@@ -1098,6 +1263,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 48aa2b8c255520e40af9e617565dfb19
+      internalID: 21300092
       vertices: []
       indices: 
       edges: []
@@ -1118,6 +1284,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6dce74d1e60f56145a1768841333f297
+      internalID: 21300094
       vertices: []
       indices: 
       edges: []
@@ -1138,6 +1305,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b5f832bef9002a449ab5bc947a0661ee
+      internalID: 21300096
       vertices: []
       indices: 
       edges: []
@@ -1158,6 +1326,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a8ceda05638037344ac3cbc3538fce80
+      internalID: 21300098
       vertices: []
       indices: 
       edges: []
@@ -1178,6 +1347,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dc33ffb4d5917ee4abc77b18d356dc5e
+      internalID: 21300100
       vertices: []
       indices: 
       edges: []
@@ -1198,6 +1368,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 63324bdc57a7655448ad212af359f622
+      internalID: 21300102
       vertices: []
       indices: 
       edges: []
@@ -1218,6 +1389,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5d39be4e67a70514ea0540180792f68d
+      internalID: 21300104
       vertices: []
       indices: 
       edges: []
@@ -1238,6 +1410,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 499383eb6e8772d4b971e5886155418f
+      internalID: 21300106
       vertices: []
       indices: 
       edges: []
@@ -1258,6 +1431,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4f029b661aece924f82e2519405747bf
+      internalID: 21300108
       vertices: []
       indices: 
       edges: []
@@ -1278,6 +1452,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5a95548c5dc360e47b8e6c1507005dc8
+      internalID: 21300110
       vertices: []
       indices: 
       edges: []
@@ -1298,6 +1473,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ab83b2de0249265408f587060d25454b
+      internalID: 21300112
       vertices: []
       indices: 
       edges: []
@@ -1306,10 +1482,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: aab199bca94a9d44c90f0b1dd793e397
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

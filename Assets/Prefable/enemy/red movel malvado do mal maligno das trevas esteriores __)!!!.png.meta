@@ -1,21 +1,45 @@
 fileFormatVersion: 2
 guid: c4b867e1ac981de478237823543ecea4
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: red movel malvado do mal maligno das trevas esteriores __)!!!_0
-    21300002: red movel malvado do mal maligno das trevas esteriores __)!!!_1
-    21300004: red movel malvado do mal maligno das trevas esteriores __)!!!_2
-    21300006: red movel malvado do mal maligno das trevas esteriores __)!!!_3
-    21300008: red movel malvado do mal maligno das trevas esteriores __)!!!_4
-    21300010: red movel malvado do mal maligno das trevas esteriores __)!!!_5
-    21300012: red movel malvado do mal maligno das trevas esteriores __)!!!_6
-    21300014: red movel malvado do mal maligno das trevas esteriores __)!!!_7
-    21300016: red movel malvado do mal maligno das trevas esteriores __)!!!_8
-    21300018: red movel malvado do mal maligno das trevas esteriores __)!!!_9
-    21300020: red movel malvado do mal maligno das trevas esteriores __)!!!_10
-    21300022: red movel malvado do mal maligno das trevas esteriores __)!!!_11
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: red movel malvado do mal maligno das trevas esteriores __)!!!_0
+  - first:
+      213: 21300002
+    second: red movel malvado do mal maligno das trevas esteriores __)!!!_1
+  - first:
+      213: 21300004
+    second: red movel malvado do mal maligno das trevas esteriores __)!!!_2
+  - first:
+      213: 21300006
+    second: red movel malvado do mal maligno das trevas esteriores __)!!!_3
+  - first:
+      213: 21300008
+    second: red movel malvado do mal maligno das trevas esteriores __)!!!_4
+  - first:
+      213: 21300010
+    second: red movel malvado do mal maligno das trevas esteriores __)!!!_5
+  - first:
+      213: 21300012
+    second: red movel malvado do mal maligno das trevas esteriores __)!!!_6
+  - first:
+      213: 21300014
+    second: red movel malvado do mal maligno das trevas esteriores __)!!!_7
+  - first:
+      213: 21300016
+    second: red movel malvado do mal maligno das trevas esteriores __)!!!_8
+  - first:
+      213: 21300018
+    second: red movel malvado do mal maligno das trevas esteriores __)!!!_9
+  - first:
+      213: 21300020
+    second: red movel malvado do mal maligno das trevas esteriores __)!!!_10
+  - first:
+      213: 21300022
+    second: red movel malvado do mal maligno das trevas esteriores __)!!!_11
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -69,8 +93,9 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -81,7 +106,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -92,7 +118,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -103,7 +130,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -114,6 +142,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -133,6 +162,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e7503d5d30be3414a83e0d75a72b1b86
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -153,6 +183,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fc729b6a1e2be6d4cb42efd3c9873fd7
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -173,6 +204,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 84c11c06655e16f438978457c1efccaf
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -193,6 +225,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e5345946ec33cef48bcf2c7d5084eeaf
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -213,6 +246,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ca4c6b304b4205841b8b3db80e9edd44
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -233,6 +267,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5d7ab45e9904fec449c0e8ab95eaa889
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -253,6 +288,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 205ab2229834a114daba2781377c0564
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -273,6 +309,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 98a971644d8900e49a92f44b0d6b2e02
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -293,6 +330,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f3f02ca82d8ea27478476f0a8576903d
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -313,6 +351,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4a09ef857aa505e438f7f9c7d2fdb966
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -333,6 +372,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 968b27c082b312546817d9b48d7aa5a2
+      internalID: 21300020
       vertices: []
       indices: 
       edges: []
@@ -353,6 +393,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 552c2c312efce0344ab9a7c37a72bf9c
+      internalID: 21300022
       vertices: []
       indices: 
       edges: []
@@ -361,10 +402,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: d3ae089882048ac4082a32d7720195dc
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

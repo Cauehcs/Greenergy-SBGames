@@ -1,13 +1,21 @@
 fileFormatVersion: 2
 guid: 870bdf6fcd44e704a862d31eddda716d
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Horizonte do carro_0
-    21300002: Horizonte do carro_1
-    21300004: Horizonte do carro_2
-    21300006: Horizonte do carro_3
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Horizonte do carro_0
+  - first:
+      213: 21300002
+    second: Horizonte do carro_1
+  - first:
+      213: 21300004
+    second: Horizonte do carro_2
+  - first:
+      213: 21300006
+    second: Horizonte do carro_3
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -61,8 +69,9 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -73,7 +82,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -84,6 +94,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -103,6 +114,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3778dbb57cd561345820d4d6afd2b5eb
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -123,6 +135,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3b24be133ab718d40b1b9a886354c0ed
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -143,6 +156,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0650a37ad14f8704b97ee60490abdbe3
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -163,6 +177,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fdc9082f145ac194b8685a91b1d196d8
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -171,10 +186,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: ade0e3deb0f6ec142b3208aba867dee4
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
